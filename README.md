@@ -1,6 +1,13 @@
 # Errores y Propuestas de Mejora de la aplicación de gestión interna del Área de Calidad Académica
 :information_source: Repositorio de seguimiento de errores y propuestas de mejora para la aplicación de gestión interna del Área de Calidad Académica de la Universidad Internacional de Valencia.
 
+## Versiones soportadas
+En esta sección se indican que versiones pueden ser empleadas y cuales tienen actualmente soporte de errores y seguridad.
+
+| Version       | Uso autorizado     | Soporte activo     |
+| ------------- | ------------------ | ------------------ |
+| 1.0.0-alpha   | :white_check_mark: | :white_check_mark: |
+
 ## :sos: Reportar Errores
 Desde [Issues](https://github.com/UPAM5A/gestion-interna-bugTracker/issues) puede realizar el seguimiento de los errores reportados y reportar nuevos errores. Requiere de tener sesión iniciada en GitHub, las cuentas básicas son :free:gratuitas.
 
