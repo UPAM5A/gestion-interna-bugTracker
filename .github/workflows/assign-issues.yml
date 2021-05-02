@@ -2,7 +2,7 @@ name: Auto Assign Issues to Project(s)
 
 on:
   issues:
-    types: [opened, labeled]
+    types: [labeled]
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -19,6 +19,6 @@ jobs:
 
     - name: Assign Enhancements to panel 
       uses: srggrs/assign-one-project-github-action@1.2.1
-      if: contains(github.event.issue.labels.*.name, 'enhancement ') ||
+      if: contains(github.event.issue.labels.*.name, 'enhancement ')
       with:
         project: 'https://github.com/UPAM5A/gestion-interna-bugTracker/projects/1'
