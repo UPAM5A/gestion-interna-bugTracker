@@ -1,7 +1,7 @@
 # Soporte
 
 ## Versiones soportadas
-En esta sección se indican que versiones pueden ser empleadas y cuales tiene actualmente soporte de errores y seguridad.
+En esta sección se indican que versiones pueden ser empleadas y cuales tienen actualmente soporte de errores y seguridad.
 
 | Version       | Uso autorizado     | Soporte activo     |
 | ------------- | ------------------ | ------------------ |
