@@ -7,9 +7,9 @@ En esta sección se indican que versiones pueden ser empleadas y cuales tienen a
 | ------------- | ------------------ | ------------------ |
 | 1.0.0-alpha   | :white_check_mark: | :white_check_mark: |
 
-## :sos: Reportar Errores
-Desde [Issues](https://github.com/UPAM5A/gestion-interna-bugTracker/issues) puede realizar el seguimiento de los errores reportados y reportar nuevos errores. Requiere de tener sesión iniciada en GitHub, las cuentas básicas son :free:gratuitas.
+## :sos: Reportar Errores de seguridad
+Un error de seguridad es todo error que permite acceder a datos a los que no se deberían tener acceso o que de permisos para realizar acciones que no se debería poder realizar y comprometen los datos o la aplicación. Este tipo de error **NO DEBE SER REPORTADO EN ABIERTO** pues podrían aprovechar la vulnerabilidad personas mal intencionadas antes de poder proveer un parche de seguridad.
 
-Al crear un :new:**nuevo reporte de error** trate de ser lo más **preciso y conciso** posible para poder reproducirlo en un entorno de desarrollo. En caso de que la aplicación indique un texto de error **indique literalmente el texto** en el reporte o **incluya una captura de pantalla**.
+Si detecta algun error de seguridad escriba a <palcarazm@colaborador.universidadviu.com> indicando en el asunto [Gestion Interna] [VULNERABILIDAD] e indicando claramente el error de seguridad y como reproducirlo. No omita ningún detalle que pueda ser de utilidad incluido capturas de pantalla.
 
-:inbox_tray: [CREA UN NUEVO REPORTE DE ERROR AQUI](https://github.com/UPAM5A/gestion-interna-bugTracker/issues/new?assignees=&labels=bug&template=reporte-de-error.md&title=%5BBUG%5D)
+Muchas gracias por ayudar a la mejora del aplicativo con los reportes de errores.
